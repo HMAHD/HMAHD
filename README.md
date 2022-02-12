@@ -9,7 +9,7 @@ Hi there 👋
 - 💬 Ask me about anything
 - 👩‍💻 I'm a enthusiastic programmer (Still Student 🤫) 
 - 📫 How to reach me: Telegram ☝️
-- 😄 Username: TheCaptain
+- 😄 Username: HMAHD
 - ⚡ Fun fact: learn more about cybersecurity & web 3 concepts 
 
 ![Akash-hasendr](https://github.com/Akash-hasendr/Akash-hasendr/blob/main/standard.gif)

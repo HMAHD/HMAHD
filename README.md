@@ -1,3 +1,4 @@
+[![Akash Hasendra, "Experience is the name everyone gives to their mistakes"](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=%22Experience%20is%20the%20name%20everyone%20gives%20to%20their%20mistakes%22&title=Akash%20Hasendra)](https://pimp-my-readme.webapp.io)
 ![](https://komarev.com/ghpvc/?username=HMAHD&style=for-the-badge)
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-hasendra/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/akash.darmasiri)
@@ -21,7 +22,7 @@ Hi there 👋
 <!---line break---->
 
 
-
+<!------
 <h2 align="center">Github stats ⚓</h2>
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{HMAHD}/count.svg" alt="HMAHD :: Visitor's Count" /></p>
@@ -29,7 +30,7 @@ Hi there 👋
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMAHD&langs_count=10&theme=tokyonight&layout=compact" alt="HMAHD :: Top Langs" /></p>
 <h4 align="center">Profile stats 💪</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=HMAHD&show_icons=true&theme=tokyonight" alt="HMAHD :: Profile Stats" /></p>
-
+------>
 
 <!---line break---->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 

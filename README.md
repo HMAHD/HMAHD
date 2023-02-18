@@ -479,12 +479,12 @@ Hi there 👋
 </details>
 <!---- Badges----------->
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka
 <details> 
 <summary><b> Wrapped Github :star2: </b></summary> 
 ![image](https://user-images.githubusercontent.com/99458905/219865292-cefe1459-aa0b-4fa1-8f2b-67ffe791da05.png)
 </details>
-<!--END_SECTION:waka-->
+END_SECTION:waka-->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HMAHD&bg_color=0d1117&color=ffffff&line=050e50&point=ffffff&area=true&hide_border=true)](https://github.com/HMAHD)
 

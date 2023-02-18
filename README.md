@@ -1,4 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=HMAHD&theme=nautilus&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=HMAHD&theme=nautilus&data=followers,repositories,stars,commits)](https://github.com/HMAHD)
 
 ![Twitter](https://komarev.com/ghpvc/?username=HMAHD&style=for-the-badge)
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-hasendra/)
@@ -17,7 +17,7 @@
 [![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 [![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
 ![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
-[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/HMAHD)
 
 Hi there 👋
 - 📒 I’m currently studying at NSBM Green university
@@ -26,7 +26,7 @@ Hi there 👋
 - 💬 Ask me about anything
 - 👩‍💻 I'm a enthusiastic programmer (Still Student 🤫) 
 - 📫 How to reach me: Telegram ☝️
-- 😄 [![Badge](https://3a1ibnz6raa7.runkit.sh)](https://git.io/gradientbadge)
+- 😄 [![Badge](https://3a1ibnz6raa7.runkit.sh)](https://github.com/HMAHD)
 - ⚡ Fun fact: learn more about cybersecurity & web 3 concepts 
 
 ![Akash-hasendr](https://github.com/Akash-hasendr/Akash-hasendr/blob/main/standard.gif)
@@ -486,7 +486,7 @@ Hi there 👋
 </details>
 <!--END_SECTION:waka-->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HMAHD&bg_color=0d1117&color=ffffff&line=050e50&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HMAHD&bg_color=0d1117&color=ffffff&line=050e50&point=ffffff&area=true&hide_border=true)](https://github.com/HMAHD)
 
 <p align="center">
    <img align='center' src="https://i.ibb.co/fqMN3QP/technologist-desktop.gif" width="25%" alt="giphy">
@@ -497,4 +497,4 @@ Hi there 👋
 <br>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=14&duration=8000&pause=5000&color=428CF7&center=true&width=435&lines=Deign+%E2%9D%A4%EF%B8%8F+By+Akash+Hasendra+%E2%AD%90+This+Repo.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=14&duration=8000&pause=5000&color=428CF7&center=true&width=435&lines=Deign+%E2%9D%A4%EF%B8%8F+By+Akash+Hasendra+%E2%AD%90+This+Repo.)](https://github.com/HMAHD)

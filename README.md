@@ -35,7 +35,7 @@ Hi there 👋
 <!---line break---->
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true-bg=true-ma&row=1-ma&margin-w=50-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true-bg=true-ma&row=1-ma&margin-w=50-ma&theme=onedark)](https://github.com/HMAHD/github-profile-trophy)
 
 <!-------- Stats -------!>
 <a href="https://hmahd.github.io"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=HMAHD&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&theme=algolia" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMAHD&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&theme=algolia" /></a>

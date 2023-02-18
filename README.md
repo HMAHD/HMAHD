@@ -36,17 +36,20 @@ Hi there 👋
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true-bg=true-ma&row=1-ma&margin-w=60-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=HMAHD&hide_border=true&theme=blue-green&width="40%")](https://github.com/DenverCoder1/github-readme-streak-stats)[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HMAHD&theme=blue-green&hide_border=true&show_icons=true&width="40%")](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=HMAHD&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMAHD&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 <!---line break---->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <!---line break---->
-<!---------contribute chart animate snake----------------->
+
+
+
+<!---------contribute chart animate snake
 <p align="center" >
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
+----------------->
 <hr color="navyblue">
 <p align="center">
    <img align='center' src="https://i.ibb.co/fqMN3QP/technologist-desktop.gif" width="25%" alt="giphy">

@@ -55,7 +55,8 @@ Hi there 👋
 <hr color="navyblue">
 ----------------->
 <!---- Badges----------->
-## Developer Tech
+<details>
+<summary><b> Developer Tech :star2: </b></summary>
 
 ### Frameworks 
 
@@ -475,7 +476,7 @@ Hi there 👋
 
 </p>
 
---- 
+</details>
 <!---- Badges----------->
 
 <p align="center">

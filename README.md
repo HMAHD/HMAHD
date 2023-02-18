@@ -36,7 +36,7 @@ Hi there 👋
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true-bg=true-ma&row=1-ma&margin-w=60-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=HMAHD&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HMAHD&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=HMAHD&hide_border=true&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HMAHD&theme=blue-green&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---line break---->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 

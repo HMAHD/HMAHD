@@ -1,11 +1,11 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=HMAHD&theme=nautilus&data=followers,repositories,stars,commits)](https://github.com/HMAHD)
 
 ![Twitter](https://komarev.com/ghpvc/?username=HMAHD&style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-hasendra/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/akash.darmasiri)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AHasendra)
 [<img align='right' src="https://i.ibb.co/nk9gvXz/xero-code.gif" width="25%" alt="giphy">](https://t.me/Legend000001)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 
 
@@ -486,9 +486,9 @@ Hi there 👋
 ![image](https://user-images.githubusercontent.com/99458905/219865292-cefe1459-aa0b-4fa1-8f2b-67ffe791da05.png)
 </details>
 END_SECTION:waka-->
-
+<!---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HMAHD&bg_color=0d1117&color=ffffff&line=050e50&point=ffffff&area=true&hide_border=true)](https://github.com/HMAHD)
-
+---->
 <p align="center">
    <img align='center' src="https://i.ibb.co/fqMN3QP/technologist-desktop.gif" width="25%" alt="giphy">
    <br>

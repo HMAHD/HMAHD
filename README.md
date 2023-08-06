@@ -478,6 +478,7 @@ Hi there 👋
 </p>
 
 </details>
+<div align='center'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=153956&s=25' border='0' alt='Free Website Hit Counter'></a><br / ></div>
 <!---- Badges----------->
 
 <!--START_SECTION:waka

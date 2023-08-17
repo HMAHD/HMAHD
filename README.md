@@ -5,7 +5,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/akash.darmasiri)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AHasendra)
 [<img align='right' src="https://i.ibb.co/nk9gvXz/xero-code.gif" width="25%" alt="giphy">](https://t.me/Legend000001)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/ahasendra)
 
 
 
@@ -17,7 +17,7 @@
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 [![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
-![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)
+[![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label)](https://copy.sh/v86/?profile=archlinux)
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/HMAHD)
 
 Hi there 👋

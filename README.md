@@ -499,4 +499,4 @@ END_SECTION:waka-->
 <br>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=14&duration=8000&pause=5000&color=428CF7&center=true&width=435&lines=Design+%E2%9D%A4%EF%B8%8F+By+Akash+Hasendra+%E2%AD%90+This+Repo.)](https://github.com/HMAHD)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=12&pause=1000&color=0ca8fd&center=true&vCenter=true&random=false&width=435&lines=Design+By+%CE%9BK%CE%9B%C6%A7%CE%89+%CE%89%CE%9B%C6%A7%CE%A3%D0%9FD%D0%AF%CE%9B+%7C+%E2%AD%90+This+Repo)](https://github.com/HMAHD)

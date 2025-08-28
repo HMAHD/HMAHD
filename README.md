@@ -36,7 +36,7 @@ Hi there 👋
 <!---line break---->
 
 <p align="center">
-<a href="https://app.daily.dev/hasendra"><img src="https://api.daily.dev/devcards/v2/4AVGLfaovDz4nkxY1KRPL.png?type=wide&r=nx0" width="652" alt="Akash Hasendra's Dev Card"/></a>
+<a href="https://app.daily.dev/hasendra"><img src="https://api.daily.dev/devcards/v2/4AVGLfaovDz4nkxY1KRPL.png?type=wide&r=krd" width="652" alt="Akash Hasendra's Dev Card"/></a>
 </p>
 
 <!---line break---->

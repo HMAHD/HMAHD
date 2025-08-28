@@ -39,7 +39,6 @@ Hi there 👋
 <a href="https://app.daily.dev/hasendra"><img src="https://api.daily.dev/devcards/v2/4AVGLfaovDz4nkxY1KRPL.png?type=wide&r=nx0" width="652" alt="Akash Hasendra's Dev Card"/></a>
 </p>
 
-
 <!---line break---->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <!---line break---->

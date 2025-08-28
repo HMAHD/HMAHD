@@ -27,7 +27,7 @@ Hi there 👋
 - 💬 Ask me about anything
 - 👩‍💻 I'm a enthusiastic programmer (Still Student 🤫) 
 - 📫 How to reach me: Telegram ☝️
-- 😄 [![Badge](https://3a1ibnz6raa7.runkit.sh)](https://github.com/HMAHD)
+<!--- 😄 [![Badge](https://3a1ibnz6raa7.runkit.sh)](https://github.com/HMAHD)--->
 - ⚡ Fun fact: learn more about cybersecurity & web 3 concepts 
 
 ![Akash-hasendr](https://github.com/Akash-hasendr/Akash-hasendr/blob/main/standard.gif)
@@ -35,12 +35,10 @@ Hi there 👋
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <!---line break---->
 
+<p align="center">
+<a href="https://app.daily.dev/hasendra"><img src="https://api.daily.dev/devcards/v2/4AVGLfaovDz4nkxY1KRPL.png?type=wide&r=nx0" width="652" alt="Akash Hasendra's Dev Card"/></a>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true-bg=true-ma&row=1-ma&margin-w=50-ma&theme=onedark)](https://github.com/HMAHD/github-profile-trophy)
-
-<!-------- Stats -------!>
-<a href="https://hmahd.github.io"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=HMAHD&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&theme=algolia" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMAHD&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&theme=algolia" /></a>
-<!-------- Stats -------!>
 
 <!---line break---->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
@@ -478,7 +476,7 @@ Hi there 👋
 </p>
 
 </details>
-<div align='center'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=153956&s=25' border='0' alt='Free Website Hit Counter'></a><br / ></div>
+
 <!---- Badges----------->
 
 <!--START_SECTION:waka
